@@ -10,7 +10,7 @@
   
   <!-- 用来设置版本号 -->
   <properties>
-      <srping.version>4.0.2.RELEASE</srping.version>
+      <srping.version>5.3.19</srping.version>
       <mybatis.version>3.2.8</mybatis.version>
   </properties>
   
